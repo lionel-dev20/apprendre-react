@@ -19,16 +19,28 @@ function App() {
       img : "https://media.techtribune.net/uploads/2022/11/bleach-ichigo-thousand-year-blood-war-anime.jpg"
     },
       {
-        id : 3,
-      name : "Gautier", 
-      role: "Dev ops", 
-      img : "https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2021/12/legiao_3CIEFBoT2l4S.jpg.webp"
+      name : "Ronaldo", 
+      role: "React dev", 
+      img : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzVkD9xcI2dB8JKNq2vjZAKDTnK6J6oZ-Uw&usqp=CAU"
     },
-      {
+
+  {
+  name : "Cedric", 
+  role: "Php expert", 
+  img : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfefoNyTEBLuqL8SZcG-BmscSZMtjQK7H9sQ&usqp=CAU"
+},
+
+  {
+  name : "Gautier", 
+  role: "Dev ops", 
+  img : "https://www.anime-planet.com/images/characters/l-death-note-1337.jpg"
+},
+      
+{
        
-      name : "Virgil", 
-      role: "Flutter App", 
-      img : "https://i.pinimg.com/564x/37/e8/6d/37e86d8a2b6746f28c3eeddfce2679ec.jpg"}
+      name : "Virgile", 
+      role: "Mobile dev", 
+      img : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMQwj7NjkMbkVI0W7qbxGxSIIy0ND3Vthqw&usqp=CAU"}
     ]
   )
   const showEmployees = true;
